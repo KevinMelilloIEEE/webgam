@@ -1,5 +1,5 @@
 <?php
-$SiteTitle = "Lookup Tools";
+$SiteTitle = "Email Lookup Tools";
 echo '<html><head><meta name="google" content="notranslate">';
 echo "<title>$SiteTitle | $PageTitle</title></head><body>";
 echo "<h1><center>$SiteTitle | $PageTitle</center></h1>";
