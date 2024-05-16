@@ -1,5 +1,5 @@
 # webgam
-Using Apache\PHP\GAM together.
+These PHP pages along with GAM will allow you top use Apache for specific GAM purposes, protected by a basic username\password challenge.  I don't claim this is the best way to do it, or even a particularly good way to do it.  I claim it is a way to do it.  Call it a starting point!
 
 ## Proper Permissions of the User Folder where GAM is installed (for example /home/gamuser)
 ```
